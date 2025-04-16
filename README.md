@@ -5,11 +5,11 @@
 Me chamo Laura Sousa e Silva, tenho 18 anos e estou começando na área de programação, com o objetivo de me especializar em backend ou FullStack.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IMEPAC. Tenho um interesse enorme por tecnologia e adoro a satisfação de construir projetos.
 
 <p align="left">
-    <a href="mailto:laurasousaesilv@gmail.com?subject=Contato" target="_blank">
+    <a href="mailto:laurasousaesilv@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
         <img 
             alt="email" 
             title="acesse meu email" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/laurasousaesilv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/laura-sousa-e-silva-9590b0261/">
