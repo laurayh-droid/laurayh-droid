@@ -5,7 +5,7 @@
 Me chamo Laura Sousa e Silva, tenho 18 anos e estou começando na área de programação, com o objetivo de me especializar em backend ou FullStack.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IMEPAC. Tenho um interesse enorme por tecnologia e adoro a satisfação de construir projetos.
 
 <p align="left">
-    <a href="mailto:laurasousaesilv@gmail.com" target="_blank">
+    <a href="mailto:laurasousaesilv@gmail.com?subject=Contato" target="_blank">
         <img 
             alt="email" 
             title="acesse meu email" 
