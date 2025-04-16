@@ -12,7 +12,7 @@ Me chamo Laura Sousa e Silva, tenho 18 anos e estou começando na área de progr
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/laura-sousa-e-silva-9590b0261">
+    <a href="https://www.linkedin.com/in/laura-sousa-e-silva-9590b0261/">
         <img 
             alt="linkedin" 
             title="meu linkedin" 
