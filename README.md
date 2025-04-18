@@ -117,7 +117,7 @@ Me chamo Laura Sousa e Silva, tenho 18 anos e estou começando na área de progr
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurayh-droid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurayh-droid&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
